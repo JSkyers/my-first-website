@@ -1,0 +1,70 @@
+.carousel img {
+  height: 100px;
+}
+
+.carousel {
+  width:100%;
+  height:642px;
+  border: solid black 4px;
+}
+
+.imageresize {
+  width: 100%;
+  border: solid black 4px;
+  height: 200px;
+  margin-top: 40px;
+  border-radius: 20%;
+}
+
+.carouselpush {
+  margin-top: 40px;
+}
+.thing img:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  border: solid yellow 4px;
+
+}
+
+.navthing img:hover {
+  opacity: 0.9;
+  cursor: pointer;
+  background-image: url("images/cardback1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+body {
+  background-image: url("images/yugiohbgimg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar-default {
+  background-color:none;
+  background-image: url("images/yugiohnav.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
+ .navbar {
+   height: 150px;
+ }
+
+.cardlink {
+  padding-top: 20px;
+  width:10%;
+  margin-left: 20px;
+}
+
+.mainlogo {
+  border: solid black 4px;
+  border-radius: 30%;
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+audio {
+  display: none;
+}
