@@ -71,3 +71,17 @@ body {
 audio {
   display: none;
 }
+
+@media screen and (max-width: 1000px) {
+  .navbar {
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: 1200px) {
+
+  .carousel {
+    height: 30%;
+  }
+}
