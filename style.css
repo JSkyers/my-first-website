@@ -27,7 +27,7 @@
 }
 
 .navthing img:hover {
-  opacity: 0.3;
+  opacity: 0.7;
   cursor: pointer;
   background-image: url("images/cardback1.jpg");
   background-size: cover;
